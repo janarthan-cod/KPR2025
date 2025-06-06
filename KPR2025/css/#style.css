@@ -1,0 +1,20 @@
+.header{
+    background-color:black;
+    color:white;
+}
+.header:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+#one{
+    color:blueviolet;
+}
+#two{
+    color:black;
+}
+#three{
+    color: blue;
+}
+*{
+    color:chocolate;
+}
